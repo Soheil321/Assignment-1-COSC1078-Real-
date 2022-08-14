@@ -1,0 +1,84 @@
+/* Feel free to style me! */
+
+body{
+     font-family:'Lucida Sans Unicode', 'Lucida Grande', 'sans-serif';
+	 font-size:1em;
+}
+
+h1{
+	 font-family:'Impact', 'Charcoal', 'sans-serif';
+	 font-size:3.0em;
+	 font-weight:bolder;
+	 text-transform:uppercase;
+	 letter-spacing:2px;
+	 text-align: center;
+	 background-color:lightgrey;
+}
+
+
+h2{
+	 font-family:'Impact', 'Charcoal', 'sans-serif';
+	 font-size:3.0em;
+	 font-weight:bolder;
+	 text-transform:uppercase;
+	 letter-spacing:2px;
+	 text-align: center;
+	 background-color:lightgrey;
+
+}
+
+h3{
+	 font-family:'Impact', 'Charcoal', 'sans-serif';
+	 font-size:2.0em;
+	 font-weight:bolder;
+	 text-transform:uppercase;
+	 letter-spacing:2px;
+	 text-align: center;
+	 
+
+}
+
+
+
+
+
+p{
+	 font-family:'Lucida Sans Unicode', 'Lucida Grande', 'sans-serif';
+	 font-size:0.8em;
+	 line-height:1.7em;
+	 display:grid;
+}
+
+#myHeader{
+     text-align:center;
+	 color:black;
+	 font-family:san-serif;
+}
+
+img {
+	 display:block;
+	 margin-left: auto;
+	 margin-right: auto;
+}
+
+a:visited{
+	 color:black;
+	 text-decoration: none;
+	 text-align: center;
+	 display: inline;
+	 margin: auto;
+}
+a:hover {
+	 color:blue;
+	 text-decoration: underline;
+	 text-align: center;
+	 display: inline;
+	 margin: auto;
+}
+a:active {
+	 color:black;
+	 text-decoration: underline;
+	 text-align: center;
+	 display: inline;
+	 margin: auto;
+	}
